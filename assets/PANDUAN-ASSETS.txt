@@ -1,0 +1,6 @@
+ASET RUANG KELAS
+logo-ruang-kelas.png: logo transparan RGBA, 2172 x 724 piksel.
+background-ruang-kelas-16x9.svg: gambar latar siap pakai dengan kanvas tepat 1920 x 1080 (16:9). Memuat ilustrasi PNG secara tertanam, dapat dibuka sendiri tanpa berkas pendamping.
+background-ruang-kelas.png: ilustrasi raster asli hasil generator (1672 x 941), disertakan sebagai sumber. Aplikasi menggunakan versi SVG 16:9.
+
+Gambar dibuat dengan fitur image_gen bawaan. Tidak ada data pribadi/identitas sekolah di dalam gambar. Logo dipasang pada navigasi; latar pada sambutan halaman Ringkasan. Panel formulir tetap berlatar terang agar mudah dibaca.
